@@ -1521,5 +1521,5 @@ var categories = [
    }
 ]
 
-var names = categories.map((category) => category.name);
-console.log(names);
+// var names = categories.map((category) => category);
+console.log(categories);
